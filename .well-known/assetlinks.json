@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.sagekid8_bit.twa",
-        "sha256_cert_fingerprints": ["A6:65:78:92:4B:48:71:F7:15:E3:0C:2E:E4:99:B3:17:EC:AE:40:A9:B1:84:F2:C6:E8:73:40:24:87:BE:14:7F"]
-      }
-    }]
